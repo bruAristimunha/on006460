@@ -1,7 +1,7 @@
 {
   "Name": "High-DensityvSparsefNIRS_WordColorStroop_HD_Anderson_2025",
   "BIDSVersion": "1.8.0",
-  "License": "CC0",
+  "License": "CC0-1.0",
   "How To Cite": "Anderson, J., Carlton, L., Kura, S., O’Brien, W., Rogers, D., Zaman, M., Boas, D., Yücel, M. “High-Density Multi-Distance fNIRS Enhances Detection of Brain Activity during a Word-Color Stroop Task.” Neurophotonics Under Review. Available from: https://doi.org/10.1101/2025.03.12.642917",
   "DatasetType": "raw",
   "Authors": [
@@ -26,7 +26,7 @@
     "Boston University Charles River Campus (RCR) IRB. Functional Near-Infrared Spectroscopy of the Brain: 4502"
   ],
   "ReferencesAndLinks": [
-    ""
+    "https://doi.org/10.1117/1.NPh.12.3.035010"
   ],
   "SourceDatasets": [
     {
